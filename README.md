@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # freeCodeCamp Projects (fcc-projects)
 Projects I developed during my certification in FreecodeCamp.
 
