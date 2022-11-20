@@ -37,10 +37,6 @@ body {
 
 }
 
-.axis-label {
-    color: black;
-}
-
 .info {
     font-size: 0.8em;
 }
@@ -48,4 +44,9 @@ body {
 #footer {
     margin-top: 5px;
     margin-left: 50px;
+}
+
+.county {
+    fill: #ccc;
+    stroke: #999;
 }

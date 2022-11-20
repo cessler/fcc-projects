@@ -21,3 +21,4 @@ Data Visualization With D3.js
   - [Visualize Data with a Bar Chart](https://github.com/cessler/fcc-projects/tree/main/Data-Visualization/Visualize-Data-with-a-Bar-Chart) ([CodePen](https://codepen.io/cessler/pen/KKedEZE))
   - [Visualize Data with a Scatterplot Graph](https://github.com/cessler/fcc-projects/tree/main/Data-Visualization/Visualize-Data-with-a-Scatterplot-Graph) ([CodePen](https://codepen.io/cessler/pen/wvXewmr))
   - [Visualize Data with a Heat Map](https://github.com/cessler/fcc-projects/tree/main/Data-Visualization/Visualize-Data-with-a-Heat-Map) ([CodePen](https://codepen.io/cessler/pen/QWxMOqV))
+  - [Visualize Data with a Choropleth Map](https://github.com/cessler/fcc-projects/tree/main/Data-Visualization/Visualize-Data-with-a-Choropleth-Map) ([CodePen](https://codepen.io/cessler/pen/rNKpJqm))
